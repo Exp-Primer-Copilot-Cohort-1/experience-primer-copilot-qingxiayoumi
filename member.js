@@ -1,0 +1,39 @@
+function skillsMember() 
+{
+    var member = document.getElementById("member");
+    var memberValue = member.options[member.selectedIndex].value;
+    var memberText = member.options[member.selectedIndex].text;
+    var memberText2 = member.options[member.selectedIndex].text;
+    var memberText3 = member.options[member.selectedIndex].text;
+    var memberText4 = member.options[member.selectedIndex].text;
+    var memberText5 = member.options[member.selectedIndex].text;
+    var memberText6 = member.options[member.selectedIndex].text;
+    var memberText7 = member.options[member.selectedIndex].text;
+    var memberText8 = member.options[member.selectedIndex].text;
+    var memberText9 = member.options[member.selectedIndex].text;
+    var memberText10 = member.options[member.selectedIndex].text;
+    var memberText11 = member.options[member.selectedIndex].text;
+    var memberText12 = member.options[member.selectedIndex].text;
+    var memberText13 = member.options[member.selectedIndex].text;
+    var memberText14 = member.options[member.selectedIndex].text;
+    var memberText15 = member.options[member.selectedIndex].text;
+    var memberText16 = member.options[member.selectedIndex].text;
+    var memberText17 = member.options[member.selectedIndex].text;
+    var memberText18 = member.options[member.selectedIndex].text;
+    var memberText19 = member.options[member.selectedIndex].text;
+    var memberText20 = member.options[member.selectedIndex].text;
+    var memberText21 = member.options[member.selectedIndex].text;
+    var memberText22 = member.options[member.selectedIndex].text;
+    var memberText23 = member.options[member.selectedIndex].text;
+    var memberText24 = member.options[member.selectedIndex].text;
+    var memberText25 = member.options[member.selectedIndex].text;
+    var memberText26 = member.options[member.selectedIndex].text;
+    var memberText27 = member.options[member.selectedIndex].text;
+    var memberText28 = member.options[member.selectedIndex].text;
+    var memberText29 = member.options[member.selectedIndex].text;
+    var memberText30 = member.options[member.selectedIndex].text;
+    var memberText31 = member.options[member.selectedIndex].text;
+    var memberText32 = member.options[member.selectedIndex].text;
+    var memberText33 = member.options[member.selectedIndex].text;
+    var memberText34 = member.options[member.selectedIndex].text;
+}
